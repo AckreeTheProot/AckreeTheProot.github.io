@@ -1,0 +1,5 @@
+*.lock
+_site/*
+.DS_Store
+*.swp
+.jekyll-metadata
