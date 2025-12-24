@@ -1,3 +1,12 @@
 theme: jekyll-theme-console
 plugins:
   - jekyll-seo-tag
+
+title: "Ackree's website"
+description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
+baseurl: "/"
+url: "https://ackreetheproot.github.io"
+
+style: dark
+
+footer: 'hi chat :3'
