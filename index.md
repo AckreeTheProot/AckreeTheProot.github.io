@@ -1,7 +1,7 @@
 ---
-title: Ackree's website
+title: Ackree's website attempt for rn
 layout: home
-permalink: Ackree's website
+permalink: Ackree's website attempt for rn
 ---
 # Ackree 
 
