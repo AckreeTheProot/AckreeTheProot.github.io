@@ -5,7 +5,7 @@ plugins:
 title: "Ackree's website"
 description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
 baseurl: "/"
-url: "https://ackreetheproot.github.io"
+url: "https://ackreetheproot.github.io/"
 
 header_pages:
   - index.md
