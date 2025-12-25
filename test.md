@@ -1,6 +1,6 @@
 ---
 title: /test
-layout: home
+layout: page
 permalink: /test
 ---
 
