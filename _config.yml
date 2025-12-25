@@ -8,7 +8,6 @@ baseurl: "/"
 url: "https://ackreetheproot.github.io/"
 
 header_pages:
-  - index.md
   - test.md
 
 style: dark
