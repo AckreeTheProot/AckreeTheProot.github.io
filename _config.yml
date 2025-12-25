@@ -7,6 +7,10 @@ description: "A jekyll theme inspired by linux consoles for hackers, developers 
 baseurl: "/"
 url: "https://ackreetheproot.github.io"
 
+header_pages:
+  - index.md
+  - test.md
+
 style: dark
 
 footer: 'hi chat :3'

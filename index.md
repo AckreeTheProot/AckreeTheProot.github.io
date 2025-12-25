@@ -1,6 +1,7 @@
 ---
-title: Ackree's website attempt for rn
+title: Ackree's website
 layout: home
+permalink: Ackree's website
 ---
 # Ackree 
 
@@ -8,3 +9,6 @@ Page contents
 
 Hi where ram
 
+[Linkedin](https://www.linkedin.com/in/mithroy/)
+
+bweh
