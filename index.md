@@ -1,7 +1,7 @@
 ---
 title: /homepage
 layout: home
-permalink: /homepage
+permalink: /
 ---
 # Hello! I am Mithun Roy / Ackree, a current ECE major at Carnegie Mellon University
 ## I am currently looking into obtaining experience within Mechatronics or Hardware Design.
