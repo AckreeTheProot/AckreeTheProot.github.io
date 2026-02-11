@@ -2,8 +2,8 @@ theme: jekyll-theme-console
 plugins:
   - jekyll-seo-tag
 
-title: "Ackree's website"
-description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
+title: "Mithun Roy / Ackree's Personal Portfolio"
+description: "My personal website for both my engineering work and online hobbies."
 baseurl: "/"
 url: "https://ackreetheproot.github.io/"
 

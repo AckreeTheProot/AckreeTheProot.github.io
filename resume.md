@@ -4,7 +4,7 @@ layout: page
 permalink: /resume
 ---
 
-While I do have a PDF of my resume right here: [Resume]((https://docs.google.com/document/d/1HEZSZk3IL_bojRCDrfyk3kMc9apXi48htZ4rvgNEC70/edit?usp=sharing)), this page is for me to go more indepth with what I have done with all of my time and experiences.
+While I do have a PDF of my resume right here: [Resume]((https://docs.google.com/document/d/1uKbN5otmpm_FJgdH251Z--ruh1Uebnn22fc4zXPbleQ/edit?usp=sharing)), this page is for me to go more indepth with what I have done with all of my time and experiences.
 
 # Work in Progress
 
@@ -22,6 +22,12 @@ Software: Microsoft Office, Google Workspace, Zoom, Discord, Slack, Teams, Corel
 Physical Skills: Soldering, Sewing, 3D Print Welding, Laser Cutting
 
 # Experience
+
+## Senior Member, Carnegie Mellon Robotics Club  – Pittsburgh, PA   August 2025 – Present
+Assisting in designing the custom PCB for 2026’s Red Robot, a beginner-friendly hackathon
+Taught new members how to utilize 3D Printers and how to deal with parts and CAD
+Volunteered and mentored with hackathons such as Build18, Red Robot, and Tartan Hacks
+
 ## Treasurer and Officer, Furries@CMU – Pittsburgh, PA	August 2025 – Present
 Officer and treasurer for Furries@CMU, a social club for fans of anthromorphic artwork
 Organize outreach and lead events both within and external to the club, alongside creating budgets for the year
@@ -60,5 +66,21 @@ Currently transitioning from a solo project to a group project, with myself as t
 Created a custom wearable head utilizing a Teensy 4.1 alongside LED Matrices for facial expressions.
 Currently designing version 2, featuring face tracking, a modular retractable visor, alongside electroplating for the frame.
 
+-
+
 ## Visually Impaired Easter Egg	
 Created and wired custom beeping easter eggs for the visually impaired for an easter hunt with the Egg Harbor Police Activities League.
+
+## Ridable Dancing Hexapod  	December 2025 – Current
+Designing a rideable hexapod to be used for dancing in collaboration with class 18578, Mechatronic Design, for Extreme Lengths Productions (XL) and AXIS’s show, Kinematic/Kinesthetic.
+
+## Leaping Hexapod 	December 2025 – Current
+Creating a hexapod that can leap from scratch under Professor Michael Taylor for research
+Prototyping leaping capabilities utilizing Onshape and Fusion 360
+
+## Protogen Cosplay Head	September 2025 – Current
+Created a wearable LED-matrix robotic head utilizing a Teensy 4.1 for facial animations at 60 fps
+Currently prototyping a modular retractable visor system with improved LED control, FPV view, and custom software
+
+## 6502 Breadboard Computer	January 2026 – Current 
+Creating a 6502-based computer on a breadboard for the class 98341, will later be recreated on a PCB art piece
