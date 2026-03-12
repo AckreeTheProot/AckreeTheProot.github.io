@@ -58,19 +58,6 @@ Ensured the safety of students both while running equipment and alongside the ca
 Mentors FTC Team #7149 and #4957, alongside giving guidance to local and international teams through online servers.
 
 # Projects
-## All-Terrain Leaping Hexapod 	
-Designing and creating a leaping hexipod to be used for travel, transportation, and search and rescue.
-Currently transitioning from a solo project to a group project, with myself as the lead.
-
-## Protogen Cosplay Head	
-Created a custom wearable head utilizing a Teensy 4.1 alongside LED Matrices for facial expressions.
-Currently designing version 2, featuring face tracking, a modular retractable visor, alongside electroplating for the frame.
-
--
-
-## Visually Impaired Easter Egg	
-Created and wired custom beeping easter eggs for the visually impaired for an easter hunt with the Egg Harbor Police Activities League.
-
 ## Ridable Dancing Hexapod  	December 2025 – Current
 Designing a rideable hexapod to be used for dancing in collaboration with class 18578, Mechatronic Design, for Extreme Lengths Productions (XL) and AXIS’s show, Kinematic/Kinesthetic.
 
@@ -84,3 +71,10 @@ Currently prototyping a modular retractable visor system with improved LED contr
 
 ## 6502 Breadboard Computer	January 2026 – Current 
 Creating a 6502-based computer on a breadboard for the class 98341, will later be recreated on a PCB art piece
+
+## Visually Impaired Easter Egg	
+Created and wired custom beeping easter eggs for the visually impaired for an easter hunt with the Egg Harbor Police Activities League.
+-
+
+
+
