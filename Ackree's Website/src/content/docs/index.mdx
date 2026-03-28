@@ -1,0 +1,61 @@
+---
+title: Hello! I'm Mithun / Ackree
+description: Get started building your docs site with Starlight.
+template: splash # Remove or comment out this line to display the site sidebar on this page.
+hero:
+  tagline: Welcome to my website!
+  image:
+    file: ../../assets/solder.png
+  actions:
+    - text: Projects
+      link: /projects/projects
+      icon: right-arrow
+      variant: minimal
+
+    - text: Watch me cry
+      link: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+      icon: external
+      variant: minimal
+---
+
+import { Card, LinkCard, CardGrid } from '@astrojs/starlight/components';
+
+# Much of this website is still a work in progress
+
+# Naviating This Website
+
+While Mithun Roy is who I am in real Life, Ackree is the name I go by for the stuff I do online
+
+<CardGrid> {/* Can use stagger to change card grid style */}
+
+	<LinkCard 
+		title="About Me - Mithun Roy" 
+		href="/guides/authoring-content/" 
+		description="A quick titbit on who I am off the 'puter."
+	/>
+
+	<LinkCard 
+		title="About Me - Ackree" 
+		href="/guides/authoring-content/" 
+		description="The silly goober on the internet."
+	/>
+
+	<LinkCard 
+		title="Projects" 
+		href="/guides/authoring-content/" 
+		description="The fun things I create."
+	/>
+
+	<LinkCard 
+		title="Resume" 
+		href="/guides/authoring-content/" 
+		description="Shotgunning everything i've done."
+	/>
+
+	<LinkCard 
+		title="Changelogs" 
+		href="/guides/authoring-content/" 
+		description="Like time, everything changes."
+	/>
+
+</CardGrid>
