@@ -10,8 +10,12 @@ https://moonrisesunset.dev/
 Coela Can't - They were the original inspiration for me making version two of my website
 https://coelacant.com/
 
+Unix - The protogen who would introduce me to the furry communuity alongside be a medic and godsend to my life
+
 Sky - Cool derg, reason I am still an ECE major
 
 Pretzel - Cool proot, another reason I am still an ECE instead of Mech E major
 
 Skye - Silly derg
+
+Rowan - Silly fops

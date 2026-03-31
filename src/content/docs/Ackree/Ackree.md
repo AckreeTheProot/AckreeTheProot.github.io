@@ -1,6 +1,11 @@
 ---
-title: Ackree
+title: Who I am - Ackree
 description: A reference page in my new Starlight docs site.
+sidebar:
+    order: 1
+    badge:
+        text: Info
+        variant: note
 ---
 
 ## Welcome!

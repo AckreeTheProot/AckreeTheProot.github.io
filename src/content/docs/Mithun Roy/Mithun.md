@@ -1,6 +1,11 @@
 ---
-title: Mithun
-description: A guide in my new Starlight docs site.
+title: Who I am - Mithun Roy
+description: An info dump of who I am
+sidebar:
+    order: 1
+    badge:
+        text: Info
+        variant: note
 ---
 
 ## Hello There!
