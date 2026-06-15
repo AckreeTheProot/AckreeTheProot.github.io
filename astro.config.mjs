@@ -33,10 +33,6 @@ export default defineConfig({
 					autogenerate: { directory: 'Projects' },
 				},
 				{
-					label: 'Protogens',
-					autogenerate: { directory: 'Protogen' },
-				},
-				{
 					label: 'Resume',
 					autogenerate: { directory: 'Resume' },
 				},

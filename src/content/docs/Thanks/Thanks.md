@@ -19,3 +19,7 @@ Pretzel - Cool proot, another reason I am still an ECE instead of Mech E major
 Skye - Silly derg
 
 Rowan - Silly fops
+
+Astro - The framework this website this is built on
+
+Starlight - A packaged astro that was also what this website was built on
