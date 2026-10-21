@@ -4,11 +4,14 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://ackreetheproot.github.io',
+	site: 'https://ackree.dev',
 	integrations: [
 		starlight({
 			title: "Ackree / Mithun's Portfolio",
-			
+			logo: {
+        	src: './src/assets/thinemblem.png',
+      		},
+			favicon: './src/assets/emblem.png', 
 			customCss: [
        		// Relative path to your custom CSS file
         	'./src/test.css',
@@ -20,32 +23,17 @@ export default defineConfig({
 			
 			sidebar: [
 				{
-					label: 'About Me - Mithun Roy',
-					autogenerate: { directory: 'Mithun Roy' },
-					
+					label: 'Professional - Mithun Roy',
+					autogenerate: { directory: 'Mithun' },
 				},
 				{
 					label: 'About Me - Ackree',
 					autogenerate: { directory: 'Ackree' },
 				},
 				{
-					label: 'Projects',
-					autogenerate: { directory: 'Projects' },
+					label: 'Credits',
+					autogenerate: { directory: 'Credits' },
 				},
-				{
-					label: 'Resume',
-					autogenerate: { directory: 'Resume' },
-				},
-				{
-					label: 'Thanks',
-					autogenerate: { directory: 'Thanks' },
-				},
-				{
-					label: 'Changelogs',
-					autogenerate: { directory: 'Changelogs' },
-				},
-
-
 			],
 		}),
 	],
