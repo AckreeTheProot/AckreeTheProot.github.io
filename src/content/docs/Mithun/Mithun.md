@@ -14,3 +14,4 @@ Hi! This is Mithun (Mit) Roy, and welcome to my website.
 
 Currently, I am an ECE, or Electrical and Computer Engineering student at CMU, or Carnegie Mellon University in Pittsburgh, PA.
 
+Will update later, currently having issues with pictures
